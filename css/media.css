@@ -1,0 +1,567 @@
+@media(min-width: 300px) and (max-width:419.9px){
+
+    .navbar-nav {
+  background-color:#4fc583 !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    display: inline-block;
+}
+
+    header .inner h1 {
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 39px!important;
+}
+.navbar-light .navbar-brand {
+    font-size: 20px!important;
+}
+header .inner1 .posi1 {
+    height: 90px;
+    position: absolute;
+    top: 7%;
+    right: -11px;
+}
+header .inner1 .posi2 {
+    height: 75px;
+    position: absolute;
+    top: 75%;
+    right: -12px;
+}
+.difficult-section .difficult .bg1 {
+    transform: translateX(20px);
+}
+.difficult-section .difficult .bg2 {
+    transform: translateX(-15px);
+}
+header .inner .aib {
+    width: 260px!important;
+}
+.company-logo-section {
+    padding: 16px 0px!important;
+}
+.company-logo-section .company h2 {
+    padding-bottom: 12px!important;
+   
+    font-size: 13px!important;
+}
+.company-logo-section .company ul li img {
+    width: 94px!important;
+}
+.company-logo-section .company ul li {
+    padding: 8px 17px!important;
+}
+.tracking-section .tracking h3 {
+   
+    font-size: 30px!important ;
+    line-height: 36px!important ;
+    padding-bottom: 7px!important ;
+}
+/*  !important   */
+ .tracking-section .tracking1 {
+  
+    padding: 22px 9px !important;
+    margin-top: 30px;
+} 
+.tracking-section .tracking1 p {
+
+    font-size: 12px;
+} 
+.tracking-section {
+    padding: 23px 0px;
+} 
+.tracking-section .tracking h6 {
+  
+    font-size: 15px;
+    line-height: 20px;
+}
+header .inner1 img {
+    height: 535px;
+}
+header .inner .aib a {
+   
+    font-size: 12px;
+    line-height: 20px;
+    padding: 6px 10px;
+}
+header .inner .aib i {
+    font-size: 34px;
+}
+header .inner .aib button {
+  
+    font-size: 13px;
+}
+.difficult-section .difficult .bg1 {
+    transform: translateX(-17px);
+}
+.difficult-section .difficult .bg2 {
+    transform: translateX(19px);
+}
+.difficult-section .difficult {
+    margin-bottom: 30px;
+}
+.difficult-section .difficult1 {
+    padding: 0px 0px;
+}
+.difficult-section .difficult1 h1 {
+   
+    font-size: 27px;
+    line-height: 33px;
+}
+.difficult-section .difficult1 h2 {
+   
+    font-size: 12px;
+    line-height: 20px;
+}
+.difficult-section .difficult1 ul li h4 {
+ 
+    font-size: 13px;
+}
+.difficult-section .difficult .dif1 p {
+  font-size: 13px;
+}
+.difficult-section .difficult .dif img {
+   width:40px;
+}
+.difficult-section .difficult .dif1 a {
+    font-size: 13px;
+}
+footer .foot input {
+   
+    padding: 11px;
+    width:100px;
+}
+footer .foot h2 {
+ 
+    font-size: 18px;
+    padding-bottom: 37px;
+  
+}
+
+footer .foot ul li a {
+  
+    padding-bottom: 0px;
+ 
+}
+footer .foot p {
+ 
+    color: #181433;
+}
+footer .foot h1 {
+ 
+    padding-bottom: 0px;
+   }
+
+
+
+
+
+
+
+
+}
+@media(min-width: 420px) and (max-width:575.9px){
+
+      .navbar-nav {
+  background-color:#4fc583 !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    display: inline-block;
+}
+
+
+    header .inner h1 {
+    font-weight: 800!important;
+    font-size: 30px!important;
+    line-height: 39px!important;
+}
+.navbar-light .navbar-brand {
+    font-size: 20px!important;
+}
+header .inner1 .posi1 {
+    height: 90px;
+    position: absolute;
+    top: 7%;
+    right: -11px;
+}
+header .inner1 .posi2 {
+    height: 75px;
+    position: absolute;
+    top: 75%;
+    right: -12px;
+}
+.difficult-section .difficult .bg1 {
+    transform: translateX(20px);
+}
+.difficult-section .difficult .bg2 {
+    transform: translateX(-15px);
+}
+header .inner .aib {
+    width: 359px!important;
+}
+.company-logo-section {
+    padding: 16px 0px!important;
+}
+.company-logo-section .company h2 {
+    padding-bottom: 12px!important;
+   
+    font-size: 14px!important;
+}
+.company-logo-section .company ul li img {
+    width: 94px!important;
+}
+.company-logo-section .company ul li {
+    padding: 8px 14px!important;
+}
+.tracking-section .tracking h3 {
+   
+    font-size: 37px!important ;
+    line-height: 43px!important ;
+    padding-bottom: 7px!important ;
+}
+/*  !important   */
+ .tracking-section .tracking1 {
+  
+    padding: 22px 9px !important;
+    margin-top: 30px;
+} 
+.tracking-section .tracking1 p {
+
+    font-size: 15px;
+} 
+.tracking-section {
+    padding: 23px 0px;
+} 
+.tracking-section .tracking h6 {
+  
+    font-size: 14px;
+    line-height: 20px;
+}
+.difficult-section .difficult .bg1 {
+    transform: translateX(-17px);
+}
+.difficult-section .difficult .bg2 {
+    transform: translateX(19px);
+}
+.difficult-section .difficult {
+    margin-bottom: 30px;
+}
+.difficult-section .difficult1 {
+    padding: 0px 0px;
+}
+.difficult-section .difficult1 h1 {
+   
+    font-size: 39px;
+    line-height: 46px;
+}
+.difficult-section .difficult1 h2 {
+   
+    font-size: 16px;
+    line-height: 27px;
+}
+.difficult-section .difficult1 ul li h4 {
+ 
+    font-size: 15px;
+}
+footer .foot ul li a {
+  
+    padding-bottom: 0px;
+ 
+}
+footer .foot p {
+ 
+    color: #181433;
+}
+footer .foot h1 {
+ 
+    padding-bottom: 0px;
+   }
+
+
+
+
+
+
+
+	
+}
+@media(min-width: 576px) and (max-width:767.9px){
+
+   .navbar-nav {
+  background-color:#4fc583 !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    display: inline-block;
+}
+	header .inner .aib a {
+    
+      font-size: 10px!important;
+    line-height: 21px!important;
+    padding: 6px 12px!important;
+}
+header .inner .aib {
+    width: 248px!important;
+}
+header .inner h1 {
+    font-weight: 700!important;
+    font-size: 27px!important;
+    line-height: 42px!important;
+}
+header .inner p {
+   
+    font-size: 17px!important;
+    line-height: 23px!important;
+}
+header .inner .aib button {
+   
+    font-size: 11px!important;
+}
+header .inner .aib i {
+    font-size: 33px!important;
+}
+header .aib .see{
+	padding-left: 10px!important;
+}
+
+header .inner .aib {
+   
+    padding: 40px 0px!important;
+}
+header .inner1 img {
+    height: 480px!important;
+}
+header .inner1 .posi1 {
+   
+    right: -217px!important;
+}
+header .inner1 .posi2 {
+    height: 119px!important;
+    right:-61px!important;
+}
+header .con{
+	padding-top: 80px!important;
+}
+header .con .nid{
+    padding-left:0px !important;
+}
+header .con .nid1{
+    padding-right:0px !important;
+}
+header .inner h1 {
+ 
+    padding: 33px 0px 22px 0px !important;
+}
+header .inner ul li {
+   
+    font-size: 13px!important;
+}
+.company-logo-section .company ul li {
+    padding: 14px 19px!important;
+}
+.company-logo-section .company h2 {
+    padding-bottom: 0px!important;
+        font-size: 20px!important;
+}
+.company-logo-section {
+    padding: 40px 0px!important;
+}
+.company-logo-section .company ul li img {
+    width: 91px!important;
+}
+.tracking-section .tracking h3 {
+   
+    font-size: 45px!important ;
+    line-height: 51px!important ;
+    padding-bottom: 7px!important ;
+}
+/*  !important   */
+ .tracking-section .tracking1 {
+  
+    padding: 22px 9px !important;
+} 
+.tracking-section .tracking1 p {
+
+    font-size: 12px;
+} 
+.tracking-section {
+    padding: 23px 0px;
+} 
+.difficult-section .difficult .bg1 {
+    transform: translateX(-17px);
+}
+.difficult-section .difficult .bg2 {
+    transform: translateX(19px);
+}
+.difficult-section .difficult {
+    margin-bottom: 30px;
+}
+.difficult-section .difficult1 {
+    padding: 0px 0px;
+}
+.accordion-button {
+  
+    font-size: 15px;
+}
+.faq-section .faq1 h4 {
+ 
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 22px;
+}
+.faq-section .faq1 h3 {
+   
+    padding: 14px 0px 6px 0px;
+}
+footer .foot input {
+   
+    padding: 11px;
+    width:100px;
+}
+
+
+	
+	
+}
+@media(min-width: 768px) and (max-width:991.9px){
+
+       .navbar-nav {
+  background-color:#4fc583 !important;
+}
+.navbar-light .navbar-nav .nav-link{
+    display: inline-block;
+}
+	header .inner .aib a {
+    
+    font-size: 14px!important;
+    line-height: 21px!important;
+    padding: 6px 16px!important;
+}
+header .inner .aib {
+    width: 339px!important;
+}
+header .inner h1 {
+    font-weight: 700!important;
+    font-size: 36px!important;
+    line-height: 42px!important;
+}
+header .inner p {
+   
+    font-size: 15px!important;
+    line-height: 25px!important;
+}
+header .inner .aib button {
+   
+    font-size: 15px!important;
+}
+header .inner .aib i {
+    font-size: 33px!important;
+}
+header .aib .see{
+	padding-left: 0!important;
+}
+
+header .inner .aib {
+   
+    padding: 40px 0px!important;
+}
+header .inner1 img {
+    height: 537px!important;
+}
+header .inner1 .posi1 {
+   
+    right: -217px!important;
+}
+header .inner1 .posi2 {
+    height: 119px!important;
+    right:-61px!important;
+}
+header .con{
+	padding-top: 80px!important;
+}
+.company-logo-section .company ul li {
+    padding: 14px 19px!important;
+}
+.company-logo-section .company h2 {
+    padding-bottom: 0px!important;
+}
+.company-logo-section {
+    padding: 40px 0px!important;
+}
+.difficult-section .difficult1 h1 {
+   
+    font-size: 28px;
+    line-height: 40px;
+}
+.difficult-section .difficult1 h2 {
+    
+    font-size: 16px;
+}
+.difficult-section .difficult1 ul li h4 {
+ 
+    font-size: 16px;
+}
+.serial-section .serial h5 {
+   
+    font-size: 22px;
+}
+.accordion-button {
+  
+    font-size: 15px;
+}
+.faq-section .faq1 h4 {
+ 
+    font-size: 12px;
+    line-height: 18px;
+    padding-bottom: 22px;
+}
+.faq-section .faq1 h3 {
+   
+    padding: 14px 0px 6px 0px;
+}
+footer .foot input {
+   
+    padding: 11px;
+    width:100px;
+}
+	
+
+
+
+
+
+
+}
+@media(min-width: 992px) and (max-width:1200px){
+    .company-logo-section .company ul li {
+    padding: 0px 16px!important;
+}
+.company-logo-section .company ul li img {
+    width: 100px!important;
+}
+.company-logo-section .company h2 {
+    padding-bottom: 14px!important;
+    font-size: 20px!important;
+}
+.company-logo-section {
+    padding: 44px 0px!important;
+}
+.difficult-section .difficult1 h1 {
+   
+    font-size: 40px;
+    line-height: 46px;
+}
+.difficult-section .difficult1 h2 {
+    
+    font-size: 16px;
+}
+.difficult-section .difficult1 ul li h4 {
+ 
+    font-size: 16px;
+}
+.faq-section .faq1 h4 {
+        padding-bottom: 26px;
+}
+
+
+
+	
+}
